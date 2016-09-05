@@ -2,14 +2,15 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Our Blogs</title>
+    <title>Weather</title>
+    <link rel="stylesheet" href="./main.css" media="screen" title="no title">
   </head>
   <body>
-  <h1>Welcome to our blog!</h1>
+  <h1>Welcome to the weather!</h1>
   <p>
     <ul>
-      {{#each blog}}
-    <li> <a href="blog/{{id}}"> {{title}}</li>
+      {{#each weather}}
+    <li> <a href="weather/{{id}}"> {{city}}</li>
     {{/each}}
     </ul>
   </p>

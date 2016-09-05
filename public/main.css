@@ -1,0 +1,25 @@
+* {
+  background-color: papayawhip;
+  font-family: arial;
+}
+
+h1 {
+  font-family: fantasy;
+}
+
+.image {
+  border-radius: 50%;
+}
+
+table {
+  border-style: solid;
+}
+
+button {
+  background-color: tomato;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  font-size: 2em;
+  color: white;
+}
