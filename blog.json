@@ -1,0 +1,24 @@
+{
+  "blog":[
+    {
+      "id": 0,
+      "title": "Day 1",
+      "date": "Monday",
+      "content": "It is Monday",
+      "image": "http://wanna-joke.com/wp-content/uploads/2013/04/cool-cat.gif"
+    },
+    {
+      "id": 1,
+      "title": "Day 2",
+      "date": "Tuesday",
+      "content": "It is Tuesday",
+      "image": "cool-cat.gif"
+    },
+    {
+      "id": 2,
+      "title": "Day 3",
+      "date": "Wednesday",
+      "image": ""
+    }
+  ]
+}
